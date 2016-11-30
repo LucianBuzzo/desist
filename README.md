@@ -8,8 +8,12 @@ Well, with **Desist** this is a thing of the past!
 **Desist** will display a friendly message when the browser is resized too
 frequently.
 
+![Desist gif](http://i.imgur.com/FEUVSzq.gif)
+
+## Installation
+
 Simply load desist.js onto your webpage to alleviate this problem.
 
 ```
-    <script src="desist.js"></script>
+<script src="desist.js"></script>
 ```
