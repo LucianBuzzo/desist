@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '8'
+deploy:
+  provider: npm
+  email: lucian.buzzo@gmail.com
+  api_key:
+    secure: ZRxZ+SFM5TtngDkuZ7TYsZuFbpx3vaTW0Z1JX3xeEeZg+jXcVulPFpn2jXpPnkzHgZZG3DIpBpMwQBV3qYivQgIIaubQOBreX2EqiaYgsgw0eUmGi3DTjGL+A8s87QFE5B4SDznuC4yKOKb9BtP9V21dYuZwIhNwYqsghSZ12haTrdJOA4Gp1tdVLLVaWdt1qJKr5HrcrlzXmCprHbwB24nx3atpjKu4TcmQwbIaATDVRrFSgRGIJXfTR8ghZ/JD6bxLzDGU/JG8PJv3SMsAfs9akO6BidH0TphACvoKPIZ2Vd8mrujkM87r2DcwW3NyDSrXCu2LVJBaEdMi2rFa0sAmyye2vKmq1OhEqPh7kVjo8ZXTF+6gv39U2fXfPxHIUVbRmibV1B5Guc473Q37rqXjaNBsotIUeQ4zAh+e1NTFrjINl3zyjFfaS93JOaP17/+ozaO3PGz/8ZbZdlnrOji50IpRYZYOcQrYb7k5BpdlxIlMORNiPKe75QyZWh2c1X+f754KVzvO40S6EQTYgJ6aJqfldZHlMsY2qiKvWJn7IdB602ndDwml/8wAitLi0u88YVeiOAz01TO9JxdQK4QTzStFm3sTsSwcR+YmhfX4xzbAo9F8trmTQsOWRSDorZ9Be+sxHt5U1vLX4+WuQevvj1L7TczpKsOUx/tv0FA=
+  on:
+    tags: true
+    repo: LucianBuzzo/desist
