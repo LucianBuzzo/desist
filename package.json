@@ -1,0 +1,22 @@
+{
+  "name": "desist",
+  "version": "0.0.2",
+  "description": "A responsive design utility for developers",
+  "main": "desist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianBuzzo/desist.git"
+  },
+  "keywords": [
+    "responsive"
+  ],
+  "author": "Lucian Buzzo <lucian.buzzo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianBuzzo/desist/issues"
+  },
+  "homepage": "https://github.com/LucianBuzzo/desist#readme"
+}
