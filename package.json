@@ -4,7 +4,7 @@
   "description": "A responsive design utility for developers",
   "main": "desist.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LucianBuzzo/desist/issues"
   },
-  "homepage": "https://github.com/LucianBuzzo/desist#readme"
+  "homepage": "https://github.com/LucianBuzzo/desist#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
