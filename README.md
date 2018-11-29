@@ -17,5 +17,5 @@ See a live demo here https://lucianbuzzo.github.io/desist/
 Simply load desist.js onto your webpage to alleviate this problem.
 
 ```
-<script src="desist.js"></script>
+<script src="https://unpkg.com/desist@0.0.3/desist.js"></script>
 ```
