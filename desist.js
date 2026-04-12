@@ -1,4 +1,7 @@
 (function () {
+  // Allow safe import in non-browser environments (SSR/Node).
+  if (typeof window === 'undefined' || typeof document === 'undefined') return
+
   var sizes = []
   var created = false
   var overlay = document.createElement('div')
