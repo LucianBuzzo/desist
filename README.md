@@ -1,5 +1,7 @@
 # Desist
 
+[![Lint](https://github.com/LucianBuzzo/desist/actions/workflows/lint.yml/badge.svg)](https://github.com/LucianBuzzo/desist/actions/workflows/lint.yml)
+
 Tired of nosey developers constantly checking if your site is responsive by
 resizing your browser window over and over again?
 
