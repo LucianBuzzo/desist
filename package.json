@@ -4,7 +4,7 @@
   "description": "A responsive design utility for developers",
   "main": "desist.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test/ssr-import.js"
   },
   "repository": {
     "type": "git",
